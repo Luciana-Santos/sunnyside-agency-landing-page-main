@@ -16,6 +16,5 @@
 .prettierignore
 
 node_modules/
-dist/
 design/
 app/

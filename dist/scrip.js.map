@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["console","log","test"],"mappings":"aAAAA,QAAAC,IAAA,SAEA,IAAAC,KAAA,WACAF,QAAAC,IAAA","file":"scrip.js","sourcesContent":["console.log('Teste')\r\n\r\nconst test = () => {\r\n  console.log('Outro teste');\r\n}"]}
